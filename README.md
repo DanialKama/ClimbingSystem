@@ -10,16 +10,18 @@ You can also access the project launcher and pictures of the project [here](http
 - Legs and arms IK for character animation.
 - Landscape material and runtime virtual texturing
 - Checkpoint system (Save player and map statistics)
+- Level manager (to load checkpoints and player respawn)
 - Simple AI enemy with sight and hearing sense. (guard designated points, attacking, searching and can be distracted by sound)
 - Danger zone actor
 - Player death effect
-- player respawn system
 - Interactable start and saving checkpoints
 - Pickup system
 - Map and minimap with actor indicators. (player, enemies, dangers, trophies, and interactable objects)
 - Trigger volume for changing map and minimap (when entering a new place, maps update)
+- Niagara audio visualizer
+- Graphic, advanced graphic and audio settings with load and save functionality.
 
 The assets included are listed below, and some of them were made by myself.
 - [Auto Landscape Mountain Map](https://www.unrealsensei.com/asset/autolandscape)
 - [FX Variety Pack](https://www.unrealengine.com/marketplace/en-US/product/a36bac8b05004e999dd4b1d332501f49)
-- Most animations are from [Mixamo](https://www.mixamo.com/) and sounds from [Freesound](https://freesound.org/)
+- Most animations are from [Mixamo](https://www.mixamo.com/), fonts from [DaFont](https://www.dafont.com/), and sounds from [Freesound](https://freesound.org/)
