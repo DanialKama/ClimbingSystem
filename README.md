@@ -11,12 +11,11 @@ You can also access the project launcher and pictures of the project [here](http
 - Landscape material and runtime virtual texturing
 - Checkpoint system (Save player and map statistics)
 - Level manager (to load checkpoints and player respawn)
-- Simple AI enemy with sight and hearing sense. (guard designated points, attacking, searching and can be distracted by sound)
-- Danger zone actor
-- Player death effect
 - Interactable start and saving checkpoints
+- AI with sight and hearing sense. (guard designated points, attacking, searching and can be distracted by sound)
 - Pickup system
 - Map and minimap with actor indicators. (player, enemies, dangers, trophies, and interactable objects)
+- Danger zone actor and custom player death effect
 - Trigger volume for changing map and minimap (when entering a new place, maps update)
 - Niagara audio visualizer
 - Graphic, advanced graphic and audio settings with load and save functionality.
