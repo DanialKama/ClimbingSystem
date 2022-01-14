@@ -1,4 +1,4 @@
-# Climber
+# Climbing System
 ## Introduction
 This project is a third-person project with a climbing system developed in Unreal Engine 4.
 This is a starting point for implementing advanced climbing systems.
