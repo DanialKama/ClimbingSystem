@@ -1,9 +1,8 @@
 # Climbing System
 ## Introduction
-This project is a third-person project with a climbing system developed in Unreal Engine 4.
-This is a starting point for implementing advanced climbing systems.
-If you have any questions or suggestions about this project, talk to me on [LinkedIn](https://www.linkedin.com/in/danialkamali/).
-You can also access the project launcher and pictures of the project [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).
+This project is a third-person climbing system developed in Unreal Engine 4.
+[DM](https://discord.com/users/810853382193545227) me if you have any questions or suggestions.
+You can also access the project demo and pictures [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).
 
 ## Concepts covered
 - A climbing system that includes ledge and knob climbing. (character switch between holding or hanging based on knob location)
