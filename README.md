@@ -2,16 +2,16 @@
 ## Introduction
 This project is a third-person climbing system developed in Unreal Engine 4.
 [DM](https://discord.com/users/810853382193545227) me if you have any questions or suggestions.
-You can also access the project demo and pictures [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).
+You can also access the project launcher and pictures [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).
 
 ## Concepts covered
-- A climbing system that includes ledge and knob climbing. (character switch between holding or hanging based on knob location)
+- A climbing system that includes ledge and knob climbing. (character switches between holding or hanging based on knob location)
 - Legs and arms IK for character animation.
 - Landscape material and runtime virtual texturing
 - Checkpoint system (Save player and map statistics)
 - Level manager (to load checkpoints and player respawn)
 - Interactable start and saving checkpoints
-- AI with sight and hearing sense. (guard designated points, attacking, searching and can be distracted by sound)
+- AI with sight and hearing senses. (guard designated points, attacking, searching, and can be distracted by sound)
 - Pickup system
 - Map and minimap with actor indicators. (player, enemies, dangers, trophies, and interactable objects)
 - Danger zone actor and custom player death effect
