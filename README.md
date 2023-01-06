@@ -1,6 +1,6 @@
 # Climbing System
 ## Introduction
-This project is a third-person climbing system developed in Unreal Engine.
+This project is a third-person climbing system developed in Unreal Engine.  
 You can access the project demo and pictures [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).
 
 ## Concepts covered
