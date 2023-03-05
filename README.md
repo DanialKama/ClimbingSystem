@@ -1,13 +1,20 @@
 # Climbing System
+
 ## Introduction
-This project is a third-person climbing system developed in Unreal Engine.
+This project contains a basic climbing system and animations.
 
-## Concepts covered
-- A climbing system that includes ledge and knob climbing. (character switches between holding or hanging based on knob location)
-- Legs and arms IK for character climbing.
-- Landscape material
+## Features
+- Climbing system (ledge and knob climbing)
+- Legs and arms IK
 
-The assets included are listed below, and some of them were made by myself.
+## Additional Notes
+You can access the demo and pictures of the project [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).  
+If you have any questions or suggestions, please feel free to [message me](https://github.com/DanialKama#-connect-with-me).
+
+## Credits
 - [Auto Landscape Mountain Map](https://www.unrealsensei.com/asset/autolandscape)
 - [FX Variety Pack](https://www.unrealengine.com/marketplace/en-US/product/a36bac8b05004e999dd4b1d332501f49)
-- Most of the animations are from [Mixamo](https://www.mixamo.com/), icons from [FlatIcon](https://www.flaticon.com/), fonts from [DaFont](https://www.dafont.com/), and sounds from [Freesound](https://freesound.org/)
+- [Mixamo](https://www.mixamo.com/)
+- [FlatIcon](https://www.flaticon.com/)
+- [Freesound](https://freesound.org/)
+- [DaFont](https://www.dafont.com/)
