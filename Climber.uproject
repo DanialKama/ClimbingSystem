@@ -16,8 +16,6 @@
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"Windows",
-		"LinuxArm64",
-		"Linux"
+		"Windows"
 	]
 }
