@@ -8,7 +8,7 @@ This project contains a basic climbing system and animations.
 - Legs and arms IK
 
 ## Additional Notes
-You can access the demo and pictures of the project [here](https://mega.nz/folder/LDAAhb5Y#frl5IvkF-xYM8m83rz8Llg).  
+You can access the demo and pictures of the project [here](https://danialkama.itch.io/climbingsystem).  
 If you have any questions or suggestions, please feel free to [message me](https://github.com/DanialKama#-connect-with-me).
 
 ## Credits
